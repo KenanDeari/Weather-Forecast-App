@@ -1,0 +1,35 @@
+html {
+    position: relative;
+    min-height: auto;
+    background-size: 100%;
+  }
+  
+  body {
+      margin-bottom: 60px;
+      background-image: url(https://lh3.googleusercontent.com/proxy/MynrN1BtgR8WPo0jcUvN8wZCt3utP3m4PEiS4fllP3BHUuy6zUaN3r2jZW2VboYWPSTqWXHza-SesBkzFVwKLYDN20H9K5cxDTS1yaY);
+      background-size: 100%;
+      background-repeat: no-repeat;
+
+  }
+  
+  .sticky-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+  }
+
+  #mainPage {
+      text-shadow: 10px;
+    margin: auto;
+    padding: 50px;
+}
+
+.weatherBased {
+    color: bisque;
+}
+
+.fiveDay {
+    font-size: 30px;
+}
