@@ -6,7 +6,7 @@ html {
   
   body {
       margin-bottom: 60px;
-      background-image: url(https://lh3.googleusercontent.com/proxy/MynrN1BtgR8WPo0jcUvN8wZCt3utP3m4PEiS4fllP3BHUuy6zUaN3r2jZW2VboYWPSTqWXHza-SesBkzFVwKLYDN20H9K5cxDTS1yaY);
+      background-image: url(background.jpg);
       background-size: 100%;
       background-repeat: no-repeat;
 
@@ -27,7 +27,7 @@ html {
 }
 
 .weatherBased {
-    color: bisque;
+    color: black;
 }
 
 .fiveDay {
