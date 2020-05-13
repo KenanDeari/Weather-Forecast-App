@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 06 Server-Side APIs: Weather Dashboard
 
 Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
@@ -44,3 +45,16 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+# Weather-Forecast-App
+
+**Describtion
+
+My motivation to complete this simple weather application was due to my interest in expanding my understanding of APIs. I implemented the OpenWeatherAPI to provide up to date weather information based on the city the user inputs. I ran into many issues understanding how to create content that can be outputted to my HTML file. I reviewed examples of other weather applications to get a starting point & idea of what needs to be done. 
+
+
+**Instructions 
+ 
+ To use this application, simply input the city you wish to see the weather in & press the magnifying glass logo to begin the search. You will then see a pop up with the next 5 day's estimated forecast. You can also press the "Get Current Location" to braodcast the weather based on the users location.
+ 
+>>>>>>> 1310ede00a4f7bbaa4b9d1c96734eb4cfa774d48
